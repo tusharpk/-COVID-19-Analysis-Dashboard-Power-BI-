@@ -28,6 +28,7 @@ Monthly & Daily Trends
 Interactive World Map
 Top 10 Most Affected Countries
 Dynamic Filters and Slicers
+
 📊 Key KPIs
 Total Confirmed Cases
 Total Deaths
@@ -36,8 +37,9 @@ Active Cases
 Recovery Rate (%)
 Death Rate (%)
 Total Vaccinations
-📂 Dataset
 
+
+📂 Dataset
 The dataset contains:
 
 Country/Region
@@ -50,25 +52,24 @@ New Cases
 New Deaths
 Vaccination Count
 Population
+
+
 📌 Key Insights
 Identified countries with the highest confirmed cases and deaths.
 Tracked recovery and vaccination trends over time.
 Compared COVID-19 impact across different regions.
 Highlighted daily and monthly growth patterns.
 Visualized global pandemic trends using interactive maps and charts.
-📷 Dashboard Preview
-
-Add screenshots of your Power BI dashboard here.
 
 🚀 Business Value
-
 This dashboard enables policymakers, healthcare professionals, researchers, and analysts to:
-
 Monitor the spread of COVID-19.
 Compare regional performance.
 Identify outbreak hotspots.
 Support public health planning.
 Communicate pandemic trends through interactive visualizations.
+
+
 ⭐ Skills Demonstrated
 Data Cleaning
 Data Transformation
@@ -80,6 +81,7 @@ Interactive Dashboard Design
 Geospatial Visualization
 Time Series Analysis
 Business Intelligence
-📌 Result
 
+
+📌 Result
 Built an interactive Power BI dashboard that provides comprehensive insights into COVID-19 cases, recoveries, deaths, and vaccination progress. The dashboard enables users to monitor trends, compare regions, and make informed decisions using real-time visual analytics.
